@@ -14,11 +14,11 @@ The played cards are then added to a discard pile.\
 The player draws X new cards and repeats playing and discarding cards.\
 When there are no cards left in the deck, the game should ask the player if they want to play again.\
 If the answer is yes, create a new deck with the discard pile and start again.\
-If the answer is no, end the game with a creative message to the player.\
+If the answer is no, end the game with a creative message to the player.
 
 ## Requirements
 The application must include the following features:
 
 The player must be able to continue drawing cards without errors.\
 It should include different methods for drawing, shuffling and playing cards.\
-It must include three arrays of a Card, using a custom class that includes {Title: String, Description: String}.\
+It must include three arrays of a Card, using a custom class that includes {Title: String, Description: String}.
