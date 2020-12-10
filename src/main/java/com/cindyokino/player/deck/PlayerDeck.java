@@ -59,7 +59,7 @@ public class PlayerDeck {
     
      // ================ Method to start the game - shuffle cards and welcome the player ================
     public static void startGame(List<Card> deckCards) {    
-//        Collections.shuffle(deckCards);  // Shuffle cards from deckCards
+        Collections.shuffle(deckCards);  // Shuffle cards from deckCards
         System.out.println();
         System.out.println("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
         System.out.println(" >>> Welcome to the Hardest Card Game! <<< ");
