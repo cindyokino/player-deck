@@ -1,4 +1,4 @@
-# Exercise: Player Deck
+# Exercise: Player Deck - For the Java + Angular bootcamp from The Software Guild 
 
 ## Overview
 This exercise has the main goal of allowing you to show off your mastery at manipulating arrays.
